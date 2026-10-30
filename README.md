@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Advanced-Roadmapping-Portfolio-Planning/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Advanced-Roadmapping-Portfolio-Planning?style=social" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Advanced-Roadmapping-Portfolio-Planning/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Advanced-Roadmapping-Portfolio-Planning?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Advanced-Roadmapping-Portfolio-Planning/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Advanced-Roadmapping-Portfolio-Planning?style=social" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Advanced-Roadmapping-Portfolio-Planning/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Advanced-Roadmapping-Portfolio-Planning?style=flat-square" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Advanced-Roadmapping-Portfolio-Planning/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-CC0_1.0-blue.svg?style=flat-square" alt="License: CC0" /></a>
@@ -69,9 +69,9 @@ Market concentration follows a **two-tier hybrid structure**:
 
 ## 💻 Open-Source GitHub Projects
 
-> All open-source projects below are ranked in descending order by **GitHub Star Count**. Every repository badge links directly to that repository's stargazers page.
+> All open-source projects below are ranked in descending order by **GitHub Stars_Count**. Every repository badge links directly to that repository's stargazers page.
 
-| 📦 Repository & Project | ⭐ GitHub Stars | ⚖️ License | 🛠️ Tech Stack & Deployment | 📌 Strategic Strengths & Portfolio Fit |
+| 📦 Repository & Project | ⭐ GitHub_Stars | ⚖️ License | 🛠️ Tech Stack & Deployment | 📌 Strategic Strengths & Portfolio Fit |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Plane](https://github.com/makeplane/plane)** | [![Plane Stars](https://img.shields.io/github/stars/makeplane/plane?style=social&color=white)](https://github.com/makeplane/plane/stargazers) | AGPL-3.0 (Community) | Next.js, TypeScript, PostgreSQL (Docker/Cloud) | Fast-growing modern Jira/Linear alternative. Includes roadmaps, release cycles (sprints), modules, AI pages, and issue tracking. Excellent for team execution. |
 | **[OpenProject](https://github.com/opf/openproject)** | [![OpenProject Stars](https://img.shields.io/github/stars/opf/openproject?style=social&color=white)](https://github.com/opf/openproject/stargazers) | GPL-3.0 | Ruby on Rails, PostgreSQL (Docker/Self-hosted) | **The gold standard for self-hosted enterprise portfolio & roadmap governance.** Offers multi-project portfolio trees, interactive Gantt timelines, budgets, and cost reporting. |
@@ -113,7 +113,7 @@ Contributions are warmly welcomed! Please follow these simple steps:
 
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a new branch** (`git checkout -b feature/add-new-tool`).
-3. 📝 **Add or edit entries** adhering strictly to the structured table format (include active links, accurate pricing/star badges, and concise capabilities).
+3. 📝 **Add or edit entries** adhering strictly to the structured table format (include active links, accurate pricing/Stars_Badges, and concise capabilities).
 4. 🚀 **Commit your changes** (`git commit -m 'feat: add tool-name'`).
 5. 📤 **Push to your branch** (`git push origin feature/add-new-tool`).
 6. 🔀 **Open a Pull Request** with a brief rationale.
