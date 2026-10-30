@@ -32,77 +32,34 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Disclaimer](#disclaimer)
+
+
+
+## Sector Overview & Market Dynamics
+
+The global Project Portfolio Management (PPM) and Strategic Roadmapping software market is estimated at approximately **$7.0B to $9.8B** (projected to reach $15B+ by the early 2030s, growing at an ~8–12% CAGR). The market exhibits a **hybrid structure**—it is **moderately concentrated at the enterprise tier** where governance suites (such as Atlassian, Planview, and Smartsheet) capture large corporate portfolios, but remains **highly fragmented across the mid-market and SMB segments** where modern product ops, roadmapping, and agile visualizers compete without a single winner-take-all outcome.
 
 
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Jira Plan (Advanced Roadmaps)](https://www.atlassian.com/software/jira)**
-
-  **Portfolio planning within Jira** for cross-team dependency mapping, capacity planning, and scenario modeling. **Pricing**: Included with Jira Premium/Enterprise; quote-based. **Free tier**: Limited on Jira Free. **Best for**: Jira-centric organizations wanting portfolio visibility without leaving the Atlassian ecosystem.
-
-
-
-- **[Productboard](https://www.productboard.com/)**
-
-  **Product management platform** with customer feedback aggregation, prioritization scoring, and roadmap visualization. **Pricing**: Quote-only; tiered by makers and features. **Free tier**: None. **Best for**: product teams wanting to connect customer insights directly to roadmap decisions.
-
-
-
-- **[Aha!](https://www.aha.io/)**
-
-  **Comprehensive product development suite** with roadmaps, ideas management, and strategy models. **Pricing**: Quote-only; tiered by users and products. **Free tier**: None. **Best for**: product organizations wanting a single platform from strategy through release.
-
-
-
-- **[Dragonboat](https://www.dragonboat.io/)**
-
-  **Portfolio and product operations platform** with capacity planning, scenario modeling, and OKR alignment. **Pricing**: Quote-only. **Free tier**: None. **Best for**: product operations teams needing data-driven capacity allocation across multiple product lines.
-
-
-
-- **[Planview](https://www.planview.com/)**
-
-  **Enterprise portfolio and work management** with strategic planning, financial governance, and resource capacity. **Pricing**: Quote-only; enterprise contracts. **Free tier**: None. **Best for**: large enterprises managing complex, multi-year portfolios with financial oversight.
-
-
-
-- **[Airfocus](https://airfocus.com/)**
-
-  **Modular product management platform** with prioritization, roadmaps, and portfolio views. **Pricing**: Quote-only; tiered by features. **Free tier**: Limited free plan available. **Best for**: mid-market teams wanting flexible, modular planning without enterprise overhead.
-
-
-
-- **[ProductPlan](https://www.productplan.com/)**
-
-  **Roadmapping and planning platform** with visual timelines, prioritization frameworks, and stakeholder sharing. **Pricing**: Quote-only; tiered by editors and viewers. **Free tier**: None. **Best for**: product managers wanting clean, shareable roadmaps with prioritization built in.
-
-
-
-- **[Roadmunk](https://roadmunk.com/)** (Tempo)
-
-  **Visual roadmap software** with multiple timeline views, prioritization, and feedback capture. **Pricing**: Quote-only. **Free tier**: None. **Best for**: teams wanting polished, customizable roadmap presentations for stakeholders.
-
-
-
-- **[Smartsheet Portfolio](https://www.smartsheet.com/)**
-
-  **Portfolio management within Smartsheet** with resource views, dashboards, and automated workflows. **Pricing**: Quote-only; tiered by users. **Free tier**: Limited free trial. **Best for**: organizations already using Smartsheet wanting portfolio visibility atop spreadsheets.
-
-
-
-- **[Monday Dev](https://monday.com/)**
-
-  **Product development workflow** within Monday.com with sprint planning, roadmaps, and capacity views. **Pricing**: Quote-only; tiered by seats. **Free tier**: Limited free plan available. **Best for**: teams wanting roadmapping within a broader work OS.
+| Platform | Company Scale (Valuation / Revenue) | Pricing (Starting Tier) | Free Tier / Free Trial Limits | Key Capabilities & Target Use Case |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Jira Plan (Advanced Roadmaps)](https://www.atlassian.com/software/jira)** | ~$52B Market Cap (Atlassian) / ~$4.1B+ Revenue | **$14.50/user/month** (billed annually as Jira Cloud Premium; $16.00/mo monthly) | **Free forever plan limited to 10 users** with 2 GB storage and basic single-project boards (Advanced Roadmaps cross-project planning requires Premium trial or upgrade) | Portfolio planning embedded in Jira for cross-team dependency mapping, capacity planning, and scenario modeling across Atlassian ecosystems. |
+| **[Monday Dev](https://monday.com/)** | ~$10B Market Cap (Monday.com) / ~$970M+ Revenue | **$9/seat/month** (billed annually as Basic Dev; **3-seat minimum = $27/month**) | **14-day free trial** of Pro features (full team access; no permanent free tier on monday dev) | Product development workflows within the Monday Work OS featuring sprint management, roadmaps, and cross-functional capacity views. |
+| **[Smartsheet Portfolio](https://www.smartsheet.com/)** | $8.4B Acquisition Valuation (Vista & Blackstone) / ~$1.1B ARR | **$9/user/month** (billed annually as Pro Plan; $12/mo monthly; 1–10 members max) | **30-day free trial** of Business plan (capped at 50 sheets created, 100 automated daily emails; permanent free tier closed to new users) | Spreadsheet-native portfolio management combining Gantt schedules, resource views, portfolio rollups, and automated workflows. |
+| **[Productboard](https://www.productboard.com/)** | $1.72B Valuation (Series D) / ~$70M+ ARR | **$19/maker/month** (billed annually as Essentials; free unlimited viewers/contributors) | **Free forever plan limited to 500 feedback notes**, 1 teamspace, and basic AI credits; plus **15-day free trial** of Pro plan | Customer feedback aggregation, product discovery prioritization scoring, and stakeholder-facing roadmap visualization. |
+| **[Planview](https://www.planview.com/)** | ~$1.6B+ PE Valuation / ~$500M Revenue | **$19/user/month** (starting tier for ProjectPlace/AgilePlace; Enterprise Portfolios is custom quote) | **30-day free trial** (AgilePlace/ProjectPlace fully functional, unlimited boards/Gantt charts; Portfolios available via sales demo) | Enterprise-scale strategic portfolio planning, multi-year financial governance, resource heatmaps, and enterprise work management. |
+| **[Aha!](https://www.aha.io/)** | ~$50M+ ARR (Bootstrapped & profitable) | **$59/user/month** (billed annually as Roadmaps Premium; $74/mo monthly) | **30-day free trial** (fully functional access to all features, scorecards, whiteboards, and knowledge base; no permanent free tier) | Comprehensive end-to-end product development suite covering strategy, scoring, roadmap visualizers, and idea portals. |
+| **[ProductPlan](https://www.productplan.com/)** | Growth Stage (~$10M+ ARR est.) | **$39/editor/month** (billed annually as Basic tier; free unlimited roadmap viewers) | **14-day free trial** (fully functional editor access without credit card; transitions to read-only mode after trial) | Clean visual roadmapping and timeline planning platform optimized for intuitive drag-and-drop stakeholder presentations. |
+| **[Airfocus](https://airfocus.com/)** | Early/Growth Stage VC-backed (~$5M–$10M ARR est.) | **$59/user/month** (billed annually as Core/Team tier; free viewers) | **Sales-assisted trial / demo only** (no permanent free tier; guided evaluation workspace provided on request) | Modular product management platform with customizable prioritization scoring matrices, OKR tracking, and multi-portfolio roadmap views. |
+| **[Roadmunk](https://roadmunk.com/)** (Tempo) | Acquired by Tempo Software (~$2M–$5M ARR standalone est.) | **$19/user/month** (billed annually as Starter tier; **2-user minimum = $38/month**) | **14-day free trial** of Business tier (unrestricted team invites, full Jira/Azure DevOps integration testing; no permanent free tier) | Visual roadmap software offering boardroom-ready timeline, swimlane views, prioritization frameworks, and stakeholder feedback capture. |
+| **[Dragonboat](https://www.dragonboat.io/)** | Early Stage (~$2M–$5M ARR est.) | **$49/editor/month** (annual baseline entry; includes up to 100 free read-only requestors) | **Demo-led evaluation & proof-of-concept trial** (available via consultation; no self-serve permanent free tier) | Responsive product portfolio ops platform focusing on outcome-driven planning, multi-level OKRs, and dynamic resource allocation. |
 
 
 
